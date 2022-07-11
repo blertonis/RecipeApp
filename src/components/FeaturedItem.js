@@ -1,4 +1,4 @@
-import useFetch from "../useEffect";
+import useFetch from "../hooks/useEffect";
 import {useHistory} from 'react-router-dom';
 const FeaturedItem = ({item}) => {
 

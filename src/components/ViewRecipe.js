@@ -1,6 +1,6 @@
 import {useParams} from 'react-router-dom';
 
-import useFetch from '../useEffect';
+import useFetch from '../hooks/useEffect';
 
 const ViewRecipe = () =>{
 

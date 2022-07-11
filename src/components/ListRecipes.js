@@ -1,5 +1,5 @@
 
-import useFetch from '../useEffect';
+import useFetch from '../hooks/useEffect';
 import { useParams } from 'react-router-dom';
 import Item from './Item'
 const ListRecipes = () =>{
